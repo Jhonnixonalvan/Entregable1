@@ -1,0 +1,51 @@
+
+body {
+  /* background-color: yellowgreen; */
+  margin: 0;
+  padding: 0;
+}
+p, h2 {
+  margin: 0;
+}
+.App {
+  margin: 0;
+  padding: 0;
+  height: 300px;
+  display: flex;
+  height: 100vh;
+}
+
+.card {
+  background-color: #fff;
+  width: 300px;
+  margin: auto;
+  padding: 10px 10px;
+}
+/* .p {
+  background-color: tomato;
+} */
+.container2 {
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction:column;
+  justify-content: end;
+  align-items: flex-end;
+  text-align: end;
+}
+.btn {
+  color: #fff;
+  aspect-ratio: 1;
+  width: 35px;
+  border-radius: 50%;
+  border: none;
+  font-size: 30px;
+  box-shadow: 0 0 10px #000;
+  right: 0;
+  margin-right: 10px;
+}
+/* .fa-quote-left{
+  background-color: #000;
+} */
+.fa-message-quote {
+  background-color: #000;
+}
